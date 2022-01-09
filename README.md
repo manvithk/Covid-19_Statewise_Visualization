@@ -1,4 +1,4 @@
-# Micrsoftfuturereadytalent_Covid-19_Status
+# Micrsoftfuturereadytalent_Covid-19_Statewise_visualization
 this is the project
 ## Project Link -Repository URL
 https://github.com/manvithk/Microsoft_futurereadytalent_Covid-19_Statewise_visualization
