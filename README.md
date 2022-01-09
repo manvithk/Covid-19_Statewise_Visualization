@@ -1,4 +1,4 @@
-# Microsoftfuturereadytalent_Covid-19_Statewise_visualization
+# Covid-19_Statewise_visualization
 
 ## Project Link -Repository URL
 https://github.com/manvithk/Microsoft_futurereadytalent_Covid-19_Statewise_visualization
