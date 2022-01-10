@@ -1,7 +1,20 @@
 # Covid-19_India_Statewise_visualization
+
 ## About
 The dataset used contains latest Covid-19 India State-wise data till January 2,2022. This dataset has been used to analyze covid in india by using powerbi-desktop to create various visualizations needed to understand covid-19 situation in india state-wise.
-## How the project was made
+
+## Dataset Attribute Information (<i>Covid-19 India Status.csv</i>)
+<p>1. <b>State/UTs</b>- Names of Indian states and union territories.</p>
+<p>2. <b>Total Cases</b>- Total number of confirmed cases</p>
+<p>3. <b>Active</b>- Total number of active cases</p>
+<p>4. <b>Discharged</b>- Total number of dicharged cases</p>
+<p>5. <b>Deaths</b>- Total number of deaths</p>
+<p>6. <b>Active Ratio(%)</b>- Ratio of number of active cases to total cases</p>
+<p>7. <b>Discharge Ratio(%)(</b>- Ratio of number of discharged cases to total cases</p>
+<p>8. <b>Death Ratio(%)</b>- Ratio of number of deaths to total cases</p>
+<p>9. <b>Population</b>- Population of State/UT</p>
+   
+## How this project was made
 1. First created a resource group (Future_ready_talent_project) under which all resouces such as azure-sqldatabase, azure-sqlserver, azure-datafactory , azure-storage(blob)
    and static web app was deployed.
 2. Uploaded the Latest Covid-19 India Status.csv to the blob storage in the input container.
@@ -12,8 +25,8 @@ The dataset used contains latest Covid-19 India State-wise data till January 2,2
 6. Pushed all the html files,png and other files to github repository through github-desktop.
 7. Deployed static web app in azure and connected it to github repository to run a website made with basic html integrated with power-bi secure embbeded report.
      
-<b>***Note that the secure embedded report in the website will not be accessible in most case (will show unavailable if logged in with normal id) because to access it you will   need organization-id of our university to access it. <p>I tried to publish the publc url but permission to get that been restricted by organization admin of our university</p><b>
-<p><b> In case you are unable to see the power-bi dynamic visulization report , I have attached images of the visualization that was created in the website<b></p>
+<b>***Note that the secure embedded report in the website will not be accessible in most case (will show unavailable if logged in with normal id) because to access it you will   need organization-id of our university to access it. <p>I tried to publish the publc url but permission to get that has been restricted by the admin</p></b>
+<p><b> In case you are unable to see the power-bi dynamic visulization report , I have attached images of the visualization that was created in the website</b></p>
 
 ## Project Link -Repository URL
 https://github.com/manvithk/Microsoft_futurereadytalent_Covid-19_Statewise_visualization
