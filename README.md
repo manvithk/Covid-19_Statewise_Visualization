@@ -1,5 +1,5 @@
 # Covid-19_India_Statewise_visualization
-https://user-images.githubusercontent.com/29128131/148723119-4d08a408-5e19-4e36-af0f-867c4935d5aa.mp4
+
 
 ## About
 The dataset used contains latest Covid-19 India State-wise data till January 2,2022. This dataset has been used to analyze covid in india by using powerbi-desktop to create various visualizations needed to understand covid-19 situation in india state-wise.
