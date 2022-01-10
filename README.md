@@ -4,6 +4,8 @@
 ## About
 The dataset used contains latest Covid-19 India State-wise data till January 2,2022. This dataset has been used to analyze covid in india by using powerbi-desktop to create various visualizations needed to understand covid-19 situation in india state-wise.
 
+In our country, Covid-19 cases have been on the rise, with new mutations/variants cropping up on a regular basis. As a result, understanding, analysing, and visualising COVID-19 state-by-state statistics for our country has become increasingly vital in order to identify the states with the most cases, active cases, deaths, and so on. To study the statewise data for this project, I created a visualisation report with  the help of power-bi, which I then published on a website made with several azure technology. With dynamic visualization report on the data available, we will be able to comprehend the states in need , allowing the concerned authorities to aid in the right distribution of resources to those states, allowing them to manage and control the pandemic crisis to some extent.
+
 ## Dataset Attribute Information (<i>Covid-19 India Status.csv</i>)
 <p>1. <b>State/UTs</b>- Names of Indian states and union territories.</p>
 <p>2. <b>Total Cases</b>- Total number of confirmed cases</p>
