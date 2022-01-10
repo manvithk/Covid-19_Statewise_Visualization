@@ -25,7 +25,7 @@ The dataset used contains latest Covid-19 India State-wise data till January 2,2
 6. Pushed all the html files,png and other files to github repository through github-desktop.
 7. Deployed static web app in azure and connected it to github repository to run a website made with basic html integrated with power-bi secure embbeded report.
      
-<b>***Note that the secure embedded report in the website will not be accessible in most case (will show unavailable if logged in with normal id) because to access it you will   need organization-id of our university to access it. <p>I tried to publish the publc url but permission to get that has been restricted by the admin</p></b>
+<b>***Note that the secure embedded report in the website will not be accessible in most case (will show unavailable if logged in with normal id) because to access it you will   need organization-id of our university to access it. <p>To publish the publc url of report is not possible as permission to get that has been restricted by the admin</p></b>
 <p><b> In case you are unable to see the power-bi dynamic visulization report , I have attached images of the visualization that was created in the website</b></p>
 
 ## Project Link -Repository URL
