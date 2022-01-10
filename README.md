@@ -13,7 +13,7 @@ In our country, Covid-19 cases have been on the rise, with new mutations/variant
 <p>4. <b>Discharged</b>- Total number of dicharged cases</p>
 <p>5. <b>Deaths</b>- Total number of deaths</p>
 <p>6. <b>Active Ratio (%)</b>- Ratio of number of active cases to total cases</p>
-<p>7. <b>Discharge Ratio (%)(</b>- Ratio of number of discharged cases to total cases</p>
+<p>7. <b>Discharge Ratio (%)</b>- Ratio of number of discharged cases to total cases</p>
 <p>8. <b>Death Ratio (%)</b>- Ratio of number of deaths to total cases</p>
 <p>9. <b>Population</b>- Population of State/UT</p>
    
